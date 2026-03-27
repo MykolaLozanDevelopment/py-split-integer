@@ -1,6 +1,3 @@
-
-
-
 def split_integer(value: int, number_of_parts: int) -> list:
     parts = []
     for parts_left in range(number_of_parts, 0, -1):
